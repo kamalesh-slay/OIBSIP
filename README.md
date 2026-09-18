@@ -1,45 +1,45 @@
-# OIBSIP - Oasis Infobyte Internship
+# Oasis Infobyte - Level 1 Task 2
 
-Web Development & Designing Internship Projects completed as part of the Oasis Infobyte internship program.
+## Personal Portfolio
 
-## Level 1 Tasks
+A responsive personal portfolio website created to showcase my profile, skills, projects and contact information.
 
-### Task 1 - Landing Page
+## Objective
 
-A responsive landing page created using HTML5 and CSS3.
+To create a professional personal portfolio using HTML5, CSS3 and JavaScript.
 
-**Technologies:**
-
-* HTML5
-* CSS3
-* Flexbox / CSS Grid
-
-### Task 2 - Personal Portfolio
-
-A responsive personal portfolio website showcasing my profile, skills, projects and contact information.
-
-**Technologies:**
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
+* Flexbox
+* CSS Grid
+* Responsive Web Design
 
-### Task 3 - Temperature Converter
+## Features
 
-An interactive temperature conversion website supporting Celsius, Fahrenheit and Kelvin conversions with input validation.
+* Profile/Hero section
+* About Me section
+* Skills section
+* Projects section
+* Contact section
+* Navigation with smooth scrolling
+* Responsive desktop and mobile layout
+* Consistent branding and typography
 
-**Technologies:**
+## Project Structure
 
-* HTML5
-* CSS3
-* JavaScript
+```text
+WebDev-L1-PersonalPortfolio/
+├── README.md
+├── index.html
+├── style.css
+├── script.js
+└── images/
+```
 
-## Internship Track
+## Internship
 
-**Track:** Web Development & Designing
-**Level:** Level 1
-**Organization:** Oasis Infobyte
-
-## Author
-
-**Kamalesh**
+**Oasis Infobyte - Web Development & Designing**
+**Level 1 - Task 2**
